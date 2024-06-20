@@ -1,0 +1,20 @@
+.divi {
+    width: 600px;
+    height: 400px;
+    border: 2px solid #000;
+    position: relative;
+    overflow: hidden;
+    margin: 0 auto;
+    background-color: #f0f0f0;
+}
+
+.divi1 {
+    width: 30px;
+    height: 30px;
+    background-color: red;
+    border-radius: 50%;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}

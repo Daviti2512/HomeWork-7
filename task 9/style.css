@@ -1,0 +1,21 @@
+.divi {
+    width: 80%;
+    height: 30px;
+    background-color: #ddd;
+    border: 2px solid #000;
+    position: relative;
+    margin: 50px auto;
+    overflow: hidden;
+    border-radius: 30px;
+}
+
+.divi1 {
+    width: 20px;
+    height: 40px;
+    border-radius: 30px;
+    background-color: black;
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    cursor: pointer;
+}
